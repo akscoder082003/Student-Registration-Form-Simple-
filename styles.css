@@ -1,0 +1,233 @@
+h1 {
+    color: rgb(8, 8, 106);
+    background: orange;
+}
+body {
+    background-color: #56ff6a;
+    font-family: Georgia;
+}
+.name_applicant {
+    font-size: 22px;
+    margin-left: 180px;
+}
+.fname {
+    font-size: 18px;
+    margin-left: 180px;
+}
+.first_input {
+    font-size: 18px;
+    margin-left: 180px;
+    width: 25%;
+    padding: 3px;
+    display: inline-block;
+    background: #fff;
+}
+.last_input {
+    font-size: 18px;
+    margin-left: 344px;
+    width: 25%;
+    padding: 3px;
+    display: inline-block;
+    background: #fff;
+}
+.dob {
+    font-size: 18px;
+    margin-left: 150px;
+}
+.gender {
+    font-size: 18px;
+    margin-left: 180px;
+}
+.options {
+    margin-left: 100px;
+    font-size: 18px;
+}
+.grade {
+    font-size: 18px;
+    margin-left: 180px;
+}
+.grade_input {
+    display: inline-block;
+    background: #fff;
+    font-size: 18px;
+    padding: 3px;
+    margin-left: 115px;
+    width: 5%;
+}
+.language {
+    font-size: 18px;
+    margin-left: 180px;
+}
+.language_input {
+    display: inline-block;
+    background: #fff;
+    font-size: 18px;
+    padding: 3px;
+    margin-left: 115px;
+    width: 20%;
+}
+.details {
+    font-size: 18px;
+    margin-left: 180px;
+}
+.details_input {
+    font-size: 18px;
+    border-color: black;
+    margin-left: 105px;
+    vertical-align: middle;
+}
+.parents {
+    font-size: 22px;
+    margin-left: 180px;
+}
+.father_name {
+    padding: 4px 180px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.name_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.Qualification {
+    padding: 4px 152px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.qualification_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.email {
+    padding: 4px 128px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.email_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.Occupation {
+    padding: 4px 158px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.occupation_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.mother_name {
+    padding: 4px 177px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.Mname_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.mqualification {
+    padding: 4px 149px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.mq_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.memail {
+    padding: 4px 125px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.me_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.moccupation {
+    padding: 4px 155.5px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-left: 180px;
+}
+.mo_input {
+    font-size: 18px;
+    padding: 4px;
+    width: 40%;
+    display: inline-block;
+    background: #fff;
+}
+.address {
+    font-size: 22px;
+    margin-left: 180px;
+}
+.residential {
+    padding: 7px 655px;
+    font-size: 22px;
+    border: 1px solid black;
+    margin-left: 180px;
+    background-color: rgb(4, 4, 95);
+    color: white;
+}
+.residential_input {
+    font-size: 18px;
+    margin-left: 180px;
+    border: 1px solid black;
+}
+.payment {
+    font-size: 18px;
+    margin-left: 180px;
+}
+.p_options {
+    margin-left: 90px;
+    font-size: 18px;
+}
+.terms {
+    padding: 7px 646px;
+    font-size: 22px;
+    border: 1px solid black;
+    margin-left: 180px;
+    background-color: rgb(4, 4, 95);
+    color: white;   
+}
+.terms_list {
+    font-size: 18px;
+    margin-left: 180px;
+    border: 1px solid black;
+    width: 1500px;
+    height: 70px;
+}
+.line {
+    margin-left: 1460px;
+}
+.signature {
+    font-size: 22px;
+    margin-left: 1545px;
+}
